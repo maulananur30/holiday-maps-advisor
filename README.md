@@ -1,2 +1,2 @@
 # holiday-maps-advisor
-Clothes shop is a web-based application for viewing travel advisor. Made with react and MUI. For the product section, use rapidAPI.
+Holiday Maps Advisor is a web-based application for viewing travel advisor. Made with react and MUI. For the product section, use rapidAPI.
